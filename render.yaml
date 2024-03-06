@@ -1,5 +1,5 @@
 services:
   -type: web
-   name: buildingcamera
+   name: mathfun
    env: docker
    plan: free
