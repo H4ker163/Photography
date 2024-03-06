@@ -1,5 +1,5 @@
 services:
   -type: web
-   name: mathfun
+   name: cheapstuff
    env: docker
    plan: free
