@@ -1,5 +1,5 @@
 services:
   -type: web
-   name: cheapstuff
+   name: photographyfun
    env: docker
    plan: free
