@@ -1,5 +1,5 @@
 services:
--type: web
+- type: web
    name: schoolschedule
    env: docker
    plan: free
